@@ -1,0 +1,16 @@
+{
+  "name": "newReminderApp",
+  "version": "1.0.0",
+  "main": "app.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon ./src/app.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
+    "i": "^0.3.7",
+    "mongoose": "^6.2.2",
+    "nodemon": "^2.0.15"
+  }
+}
